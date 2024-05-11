@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.bigevent.demos.web;
+package com.bigevent.biscuit;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;

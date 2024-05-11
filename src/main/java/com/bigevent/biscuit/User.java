@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.bigevent.demos.web;
+package com.bigevent.biscuit;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
